@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Commerce Website",
+      "description": "A fully functional online store with product listings, shopping cart, and checkout system.",
+      "techStack": ["React", "Node.js", "Express", "MongoDB"],
+      "status": "Completed",
+      "github": "https://github.com/example/ecommerce",
+      "liveDemo": "https://example-ecommerce.com"
+    },
+    {
+      "id": 2,
+      "title": "Social Media App",
+      "description": "A platform where users can share posts, follow each other, and chat in real time.",
+      "techStack": ["Vue.js", "Firebase", "Tailwind CSS"],
+      "status": "In Progress",
+      "github": "https://github.com/example/socialapp",
+      "liveDemo": null
+    },
+    {
+      "id": 3,
+      "title": "Portfolio Website",
+      "description": "Personal portfolio showcasing skills, experience, and projects.",
+      "techStack": ["HTML", "CSS", "JavaScript"],
+      "status": "Completed",
+      "github": "https://github.com/example/portfolio",
+      "liveDemo": "https://myportfolio.com"
+    },
+    {
+      "id": 4,
+      "title": "Task Management Tool",
+      "description": "A Kanban-style task board for organizing projects and tracking progress.",
+      "techStack": ["React", "Redux", "Material-UI"],
+      "status": "Completed",
+      "github": "https://github.com/example/tasktool",
+      "liveDemo": "https://tasktool.com"
+    },
+    {
+      "id": 5,
+      "title": "Weather Forecast App",
+      "description": "Fetches and displays weather data for any city using a public API.",
+      "techStack": ["Angular", "TypeScript", "OpenWeather API"],
+      "status": "Completed",
+      "github": "https://github.com/example/weatherapp",
+      "liveDemo": "https://weatherapp.com"
+    },
+    {
+      "id": 6,
+      "title": "Expense Tracker",
+      "description": "A simple app for tracking daily expenses and visualizing spending patterns.",
+      "techStack": ["React Native", "Expo", "SQLite"],
+      "status": "Completed",
+      "github": "https://github.com/example/expensetracker",
+      "liveDemo": null
+    }
+  ]
+}
